@@ -4,4 +4,5 @@ The sample Landing Page [you can see this page by the link](https://dariya105.gi
 - Use flex
 - Use Java Script
 - Chooseble menu
+- Multi-pages
 - Adaptive
